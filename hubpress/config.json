@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "trapexit",
-    "repositoryName": "trapexit.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"trapexit","repositoryName":"trapexit.github.io","branch":"master"},"site":{"title":"spawn_link/4","description":"[stuff,things,erlang]","url":"https://trapexit.github.io"},"socialnetwork":{"email":"trapexit@spawn.link","github":"http://github.com/trapexit"},"theme":{"name":"Casper","url":"//trapexit.github.io/themes/Casper"}}
